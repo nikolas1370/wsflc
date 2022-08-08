@@ -1,5 +1,5 @@
 npm install wsflc <br>
-для браузера <a href="https://github.com/nikolas1370/wsfls">тут</a>
+для сервера <a href="https://github.com/nikolas1370/wsfls">тут</a>
 ```
 import FileLoader from "wsflc";
 const fl = new FileLoader("localhost", 3210, true)// true === ssl
